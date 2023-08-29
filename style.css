@@ -162,7 +162,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 50vh;
 }
 
 .section__pic-container {
@@ -175,10 +175,12 @@ section {
 .section__text {
   align-self: center;
   text-align: center;
+  
 }
 
 .section__text p {
-  font-weight: 600;
+  font-weight: 600px;
+  
 }
 
 .section__text__p1 {
@@ -193,6 +195,7 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  padding-top: 10%;
 }
 
 #socials-container {
@@ -270,7 +273,7 @@ section {
 .about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
-  margin-top: 2rem;
+  margin-top: 20rem;
 
 }
 
