@@ -31,4 +31,27 @@ body {
     display: block;
     margin: 10px 0;
   }
+  h3 {
+    color: #333;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+  }
+  
+  a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  hr {
+    margin: 20px 0;
+    border: 1px solid #eee;
+  }
   
